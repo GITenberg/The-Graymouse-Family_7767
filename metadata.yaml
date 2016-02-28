@@ -1,0 +1,20 @@
+_repo: The-Graymouse-Family_7767
+creator:
+  author:
+    agent_name: Leonard, Nellie Mabel
+    gutenberg_agent_id: '2518'
+    url: http://www.gutenberg.org/2009/agents/2518
+description: ''
+gutenberg_issued: '2005-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7767'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mice -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Graymouse Family
+url: http://www.gutenberg.org/ebooks/7767
